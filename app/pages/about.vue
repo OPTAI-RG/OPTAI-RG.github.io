@@ -18,7 +18,7 @@ const people = [
   {
     "name": "Diaa Azzam",
     "description": "Diaa is a PhD student at Concordia University supervised by Yassine Yaakoubi.",
-    "image": "https://mila.quebec/sites/default/themes/mila_v1/assets/images/member/no-picture-v3.jpg",
+    "image": "https://optai-rg.github.io/Diaa.jpg",
   },
   {
     "name": "Mahmoud Khaled Abdelkader",
